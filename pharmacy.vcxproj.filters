@@ -24,12 +24,24 @@
     <ClCompile Include="CDate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CSupplier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CManufacturer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CMedicine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="CDate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSupplier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CManufacturer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

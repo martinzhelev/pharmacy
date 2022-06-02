@@ -140,12 +140,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CDate.cpp" />
+    <ClCompile Include="CManufacturer.cpp" />
     <ClCompile Include="CMedicine.cpp" />
+    <ClCompile Include="CSupplier.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CDate.h" />
+    <ClInclude Include="CManufacturer.h" />
     <ClInclude Include="CMedicine.h" />
+    <ClInclude Include="CSupplier.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
